@@ -15,6 +15,9 @@ RUN apk add --no-cache \
         ttf-droid \
         ttf-freefont \
         ttf-liberation \
+        texmf-dist \
+        texlive \
+        texlive-dvi \
         # more fonts
         ;
 
